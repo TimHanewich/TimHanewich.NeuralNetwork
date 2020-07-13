@@ -7,7 +7,7 @@
     <Description>Neural network system for use in machine learning</Description>
     <Copyright>Tim Hanewich</Copyright>
     <PackageLicenseFile>License.md</PackageLicenseFile>
-    <PackageIcon>nn_icon.png</PackageIcon>
+    <PackageIcon>nn_icon.jpg</PackageIcon>
     <RepositoryUrl>https://github.com/TimHanewich/TimHanewich.NeuralNetwork</RepositoryUrl>
     <PackageTags>neural network,tim hanewich,hanewich,neural,network,machine learning,machine,learning,artificial,intelligence,ai,artificial intelligence</PackageTags>
     <AssemblyVersion>0.0.0.0</AssemblyVersion>

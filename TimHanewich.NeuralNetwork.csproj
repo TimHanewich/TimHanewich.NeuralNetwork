@@ -19,7 +19,7 @@
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
-    <None Include="nn_icon.png">
+    <None Include="nn_icon.jpg">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
